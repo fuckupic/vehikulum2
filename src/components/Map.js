@@ -8,8 +8,6 @@ const Map = ({ yourName, something }) => {
   let time = newDate.getHours()
   let minutes = newDate.getMinutes()
 
-  console.log('TY: ')
-  console.log(yourName)
   return (
     <div className=" bg-white pt-14 flex items-center justify-center font-courier text-black">
       <div className=" max-w-screen-xl gap-14 justify-between flex flex-col flex-1 items-center">
