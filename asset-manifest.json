@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vehikulum2/static/css/main.0a044954.css",
+    "main.js": "/vehikulum2/static/js/main.fc47c69c.js",
+    "static/js/787.4166961b.chunk.js": "/vehikulum2/static/js/787.4166961b.chunk.js",
+    "index.html": "/vehikulum2/index.html",
+    "main.0a044954.css.map": "/vehikulum2/static/css/main.0a044954.css.map",
+    "main.fc47c69c.js.map": "/vehikulum2/static/js/main.fc47c69c.js.map",
+    "787.4166961b.chunk.js.map": "/vehikulum2/static/js/787.4166961b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a044954.css",
+    "static/js/main.fc47c69c.js"
+  ]
+}
