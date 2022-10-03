@@ -18,13 +18,13 @@ const Form = ({ handleKnowPassword, creds }) => {
       <h1 className="font-bold">Přihlášení do systému</h1>
       <div className="gap-4 flex flex-col text-white">
         <input
-          className="input"
+          className="input bg-black"
           type="text"
           ref={login}
           placeholder="Přihlašovací jméno"
         />
         <input
-          className="input"
+          className="input bg-black"
           type="password"
           ref={password}
           placeholder="Heslo"

@@ -10,11 +10,7 @@ const Body = ({ handleKnowPassword, creds }) => {
           <p>Důlní vozíky</p>
           <p>Koleje</p>
           <p>Super Krumpáče</p>
-          <img
-            className=""
-            src="https://boisterous-paletas-987612.netlify.app/img/vozikPlaceholder.jpeg"
-            alt=""
-          />
+          <img className="" src="vozikPlaceholder.jpeg" alt="" />
           <div className="contant">
             <h2 className="font-bold">Kontakt</h2>
             <p>
