@@ -1,4 +1,5 @@
 import React from 'react'
+import Todolist from './Todolist'
 
 const Map = ({ yourName, something }) => {
   let newDate = new Date()
@@ -20,6 +21,9 @@ const Map = ({ yourName, something }) => {
             {` ${time}:${minutes} / ${date}. ${month}. / ${year}`}
           </h3>
           <h3 className="font-bold">Prázdné cely: 354, 355, 281, 388</h3>
+        </div>
+        <div className=" w-11/12 h-full">
+          <Todolist />
         </div>
         <div className=" w-11/12 h-full">
           <h3 className="font-bold">Floorplan sektoru 29:</h3>
