@@ -19,9 +19,10 @@ const Map = ({ yourName, something }) => {
             Datum a čas příští služby:
             {` ${time}:${minutes} / ${date}. ${month}. / ${year}`}
           </h3>
+          <h3 className="font-bold">Prázdné cely: 354, 355, 281, 388</h3>
         </div>
         <div className=" w-11/12 h-full">
-          <h3 className="font-bold">Floorplan sektoru 6:</h3>
+          <h3 className="font-bold">Floorplan sektoru 29:</h3>
           <img src={'FloorplanVehikulum.svg'} alt="" />{' '}
         </div>
       </div>
